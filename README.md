@@ -23,14 +23,22 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-05122A%3Fstyle%3Dflat%26logo%3DHTML5?style=flat&logo=tailwindcss&color=%23142035)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/Typescript-05122A%3Fstyle%3Dflat%26logo%3DHTML5?style=flat&logo=typescript&color=%23142035)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;\
+![Express](https://img.shields.io/badge/Express-05122A%3Fstyle%3Dflat%26logo%3DHTML5?style=flat&logo=express&color=%23142035)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Next.js](https://img.shields.io/badge/Nextjs-05122A%3Fstyle%3Dflat%26logo%3DHTML5?style=flat&logo=Next.js&color=%23142035)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-05122A%3Fstyle%3Dflat%26logo%3DHTML5?style=flat&logo=framer&color=%23142035)
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A%3Fstyle%3Dflat%26logo%3DHTML5?style=flat&logo=mongodb&color=%23142035)
+![Mongoose](https://img.shields.io/badge/Mongoose-05122A%3Fstyle%3Dflat%26logo%3DHTML5?style=flat&logo=mongoose&color=%23142035)\
+![Docker](https://img.shields.io/badge/Docker-05122A%3Fstyle%3Dflat%26logo%3DHTML5?style=flat&logo=docker&color=%23142035)
+![Socket.io](https://img.shields.io/badge/Socket.io-05122A%3Fstyle%3Dflat%26logo%3DHTML5?style=flat&logo=socketdotio&color=%23142035)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
