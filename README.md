@@ -14,9 +14,12 @@
 💬 &nbsp;I develop websites with responsive design and accessibility to ensure an optimal experience on various screens and for users with different needs.\
 ✉️ &nbsp;I develop websites with responsive design and accessibility to ensure an optimal experience on various screens and for users with different needs.\
 📄 &nbsp;Please have a look at my [Portfolio](https://tinomaster.website/) for more details about me. I'm open to feedback and suggestions!
+<br>
 
 -----
 
+
+<br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -40,9 +43,11 @@
 ![Docker](https://img.shields.io/badge/Docker-05122A%3Fstyle%3Dflat%26logo%3DHTML5?style=flat&logo=docker&color=%23142035)
 ![Socket.io](https://img.shields.io/badge/Socket.io-05122A%3Fstyle%3Dflat%26logo%3DHTML5?style=flat&logo=socketdotio&color=%23142035)
 
+<br>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="start">
 <a href="https://tinomaster.website/"><img src="https://img.shields.io/badge/-tinomaster.website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/oscarmarcosmallon/"><img src="https://img.shields.io/badge/-Oscar%20Marcos-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ommallono@gmail"><img src="https://img.shields.io/badge/-ommallono@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
