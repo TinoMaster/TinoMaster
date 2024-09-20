@@ -13,7 +13,7 @@
 ✍️ &nbsp;I tackle challenges with creativity, proposing innovative solutions and thinking outside the conventional to deliver standout results.\
 💬 &nbsp;I develop websites with responsive design and accessibility to ensure an optimal experience on various screens and for users with different needs.\
 ✉️ &nbsp;I develop websites with responsive design and accessibility to ensure an optimal experience on various screens and for users with different needs.\
-📄 &nbsp;Please have a look at my [Portfolio](https://tinomaster.website/) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Portfolio](https://tinomaster.vercel.app/) for more details about me. I'm open to feedback and suggestions!
 <br>
 
 -----
