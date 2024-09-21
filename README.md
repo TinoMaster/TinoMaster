@@ -1,7 +1,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Oscar -->
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Oscar</h2>
 
-![Oscar Marcos Singh Banner](https://personalpictures.s3.cubbit.eu/Banner.png)
+![Oscar Marcos Singh Banner](https://s3.cubbit.eu/personalpictures/Banner.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=NcxqRW%2FXSCEfhSFh%2FP2ZZ3sULGiOpEcs%2F20240921%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20240921T100916Z&X-Amz-Expires=3600&X-Amz-Signature=ce064c610abd44b4d9c7498cbf59c33ac70ca0e6888edd82c65899e8e8670241&X-Amz-SignedHeaders=host&response-content-disposition=inline&x-id=GetObject)
 
 
 
